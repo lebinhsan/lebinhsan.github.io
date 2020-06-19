@@ -1,0 +1,62 @@
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+/*reset CSS*/
+.wrapper{
+	width: 960px;
+	height: 1150px;
+	background: #888383;
+	margin: 0 auto;
+}
+.header{
+	width: 965px;
+	height: 170px;
+	background: red;
+}
+.header .top-bar{
+	width: 960px;
+	height: 53px;
+	background: #103AAC;
+	text-align: right;
+}
+.top-bar img{
+	width: 40px;
+	
+}
+.header .header-main{
+	width: 960px;
+	height: 117px;
+	background: #EFD52D;
+}
+.header-main .logo{
+	width: 340px;
+	height: 117px;
+	background: #745F60;
+	float: left;
+}
+.header-main .menu{
+	width: 620px;
+	height: 117px;
+	background: #431717;
+	float: right;
+}
+
+
+/*header*/	
+.content{
+	height: 960px;
+	width: 885px;
+	background: blue;
+}
+.footer{
+	width: 960px;
+	height: 95px;
+	background: #F1161A;
+
+}
+	
+	
+
+
